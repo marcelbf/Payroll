@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "CustomConnector": {
+      "connectionInfo": "Custom Connector: Payroll_Connector (Environment: Dev)",
+      "connectorName": "Payroll_Connector",
+      "environmentUrl": "https://msbuild2023-dev.crm.dynamics.com/",
+      "environmentId": "612ce8a4-7211-e126-9569-38037c587416",
+      "type": "powerplatform.local"
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "CustomConnector": {
+      "type": "powerplatform"
+    },
+    "apis1": {
+      "type": "apis"
+    }
+  }
+}
